@@ -1,0 +1,11 @@
+! Hide the "Code 55% faster with Copilot" advertisement in the file view header
+! 04.02.2025 https://github.com
+github.com##div.react-code-size-details-in-header > .prc-Button-ButtonBase-c50BI.TIwQc.Box-sc-g0xbh4-0
+
+! Hide a Copilot advertisement button in the issue sidebar - I can't remember exactly what the label was.
+! 29.04.2025 https://github.com
+github.com##div[class*="CopilotWorkspaceButton"]
+
+! Hide the "Your organization can pay for GitHub Copilot" advertisement in the file view header
+! 12.05.2025 https://github.com
+github.com##div.react-code-size-details-in-header > .prc-Button-ButtonBase-c50BI.kXyYCF.Box-sc-g0xbh4-0
