@@ -6,6 +6,10 @@ github.com##div.react-code-size-details-in-header > .prc-Button-ButtonBase-c50BI
 ! 29.04.2025 https://github.com
 github.com##div[class*="CopilotWorkspaceButton"]
 
+! Hide the "Develop with Agent Mode" button in the issue sidebar - is this the same as the one above?
+! 14.08.2025 https://github.com
+github.com##.CopilotAgentModeButton-module__buttonGroup--sXExg
+
 ! Hide the "Your organization can pay for GitHub Copilot" advertisement in the file view header
 ! 12.05.2025 https://github.com
 github.com##div.react-code-size-details-in-header > .prc-Button-ButtonBase-c50BI.kXyYCF.Box-sc-g0xbh4-0
